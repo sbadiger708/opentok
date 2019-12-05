@@ -12,9 +12,9 @@ import './App.css';
 let otCore;
 const otCoreOptions = {
   credentials: {
-    apiKey: 46195312,
-    sessionId: '1_MX40NjE5NTMxMn5-MTU3NTQ1NDAxOTg5NH41czFMTDdneFNxOU5kYU9aeXpOU2tnNEh-fg',
-    token: 'T1==cGFydG5lcl9pZD00NjE5NTMxMiZzaWc9YWFkOWFjYjdlOWYwZmYxM2MwZDgzOTA2YTc0Mjk2NWQ3YzQ4NmY1ZjpzZXNzaW9uX2lkPTFfTVg0ME5qRTVOVE14TW41LU1UVTNOVFExTkRBeE9UZzVOSDQxY3pGTVREZG5lRk54T1U1a1lVOWFlWHBPVTJ0bk5FaC1mZyZjcmVhdGVfdGltZT0xNTc1NDU0MDQ2Jm5vbmNlPTAuNTMwOTE2MjExMDEyNTk0OSZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTc1NTQwNDQ1JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9',
+    apiKey: "API_KEY",
+    sessionId: 'SESSION_ID',
+    token: 'TOKEN_ID',
   },
   // A container can either be a query selector or an HTML Element
   streamContainers(pubSub, type, data, stream) {
